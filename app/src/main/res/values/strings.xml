@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gestor Financeiro</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="esqueci_senha">Esqueci minha senha</string>
+    <string name="criar_conta">Crie sua conta</string>
+
+
+</resources>
