@@ -15,7 +15,10 @@
 
     <style name="AppStyle">
         <item name="android:background">#FFCECECE</item>
+    </style>
 
+    <style name="MenuStyle">
+        <item name="android:background">#C6C6C6</item>
     </style>
 
 
